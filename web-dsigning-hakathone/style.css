@@ -1,0 +1,33 @@
+body{
+ border: none;
+
+}
+.ccc{
+   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+;
+    display: flex;
+    justify-content: center;
+}
+.va{
+   
+
+}
+.a{
+    visibility: hidden;
+}
+.si{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  column-gap: 5px;
+}
+.qa{
+    
+}
+@media (max-width: 900px){
+    .haha{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

@@ -1,0 +1,16 @@
+nav{
+    height: 60px;
+    background-color: aliceblue;
+    justify-content: space-between;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+ .parent{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+} 
+h1{
+    justify-content: center;
+    color: black;
+}

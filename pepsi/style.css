@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+}
+.b:hover{
+    background: blue;
+}
+.t{
+     visibility: hidden; 
+    background-color: black;
+    color: #000;
+}
+.q{
+    background-color: blue;
+}
+
+.tt:hover{
+    background-color: blue;
+    box-shadow: 20px 20px 20px;
+}
+
+
+
+    @media only screen and (max-width: 800px) {
+        body {
+          background-color: #fff;
+        }
+        .ha{
+            
+        }
+      }
